@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Raheel Nazir"
+title: "Maaz Nazir"
 ---
 
 ![Raheel Nazir](assets/profile_pic.png){: style="width: 300px;" }
