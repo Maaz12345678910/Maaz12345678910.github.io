@@ -3,10 +3,8 @@ layout: page
 title: "Maaz Nazir"
 ---
 
-![Raheel Nazir](assets/profile_pic.png){: style="width: 300px;" }
+![Maaz Nazir](assets/profile_pic.png){: style="width: 300px;" }
 
-I am a Mechanical Engineering student with a strong foundation in calculus, physics, and engineering design. Passionate about motorsports and innovation, I thrive in hands-on environments where I can apply my skills in mechanical design, prototyping, and product development. With expertise in SolidWorks, AutoCAD, CATIA, and MATLAB, I enjoy tackling complex engineering challenges and pushing technological boundaries.  
+Hi! I am Maaz Nazir, a senior at Dulaney High School and a recipient of the Presidential Scholarship for my achievements in the Early College Access Program. Throughout my academic journey, I have challenged myself with college-level coursework, pushing my limits to excel in both high school and higher education. This scholarship is a reflection of my hard work and commitment to learning, and I am grateful for the opportunities it provides as I prepare for the next stage of my education.
 
-Beyond academics, I was an active member of [LSU Tiger Racing Formula SAE](https://www.formulalsu.com/), where I contribute to high-performance vehicle design and engineering. I also serve on the board of my university’s Hiking Club, combining my love for the outdoors with leadership and team-building experiences. Additionally, my involvement in student organizations such as the Student Government Association and Student Programming Board has strengthened my ability to collaborate, organize events, and engage with diverse communities.  
-
-With experience mentoring first-year students and working as an assistant teacher, I am passionate about helping others learn and grow. I am eager to gain hands-on experience in mechanical design and engineering to contribute to real-world solutions that drive innovation and improve lives.
+My passion lies in aerospace and computer science, two fields that fuel my curiosity and drive me to explore new ideas. Whether it's learning about space exploration, coding complex algorithms, or studying the latest advancements in technology, I am always eager to expand my knowledge. In the future, I hope to contribute to innovative projects that combine these interests, helping shape the future of space and technology.
