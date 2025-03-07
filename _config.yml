@@ -24,9 +24,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  
-  - {title: Mail, icon: envelope, url: "mailto:raheeelnazir@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/RaheelN2005"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/raheel-n-a6a14932a/"}
+  - {title: Mail, icon: envelope, url: "mailto:maazy1347@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/Maaz12345678910"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/maaz-nazir/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
