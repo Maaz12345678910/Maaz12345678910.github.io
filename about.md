@@ -10,7 +10,7 @@ carousels:
 
 Hello! I'm Maaz, born and raised in **Baltimore**, with a passion for a wide range of interests. I'm fascinated by **space exploration** and the potential for discovery beyond our planet. When it comes to entertainment, I’m a big fan of **Marvel and DC movies**, always enjoying the mix of action, adventure, and complex characters.
 
-I love playing **video games**, with favorites like **Rocket League** and **Minecraft** keeping me engaged for hours. Another one of my passions is the movie **Tron**, with its futuristic concept and immersive digital world. On the TV side, my all-time favorite show is **Avatar: The Last Airbender**, a masterpiece of storytelling, world-building, and character development.
+I love playing **video games**, with favorites like **Rocket League** and **Minecraft** keeping me engaged for hours. Another one of my passions is the movie **Tron**, with its futuristic concept and immersive digital world. On the TV side, my all-time favorite show is **Avatar: The Last Airbender** -- a masterpiece of storytelling.
 
 In addition to movies and games, I enjoy **listening to movie soundtracks**, especially from films like **Interstellar** and **Tenet**. The emotional depth and atmosphere created by these scores always resonate with me.
 
