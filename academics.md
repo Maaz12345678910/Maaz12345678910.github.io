@@ -3,20 +3,8 @@ layout: page
 title: "Academics"
 ---
 
-I am currently pursuing an Associate of Science in Engineering at the Community College of Baltimore County (CCBC), with an expected graduation date of May 2027. As part of the [Maryland Transfer Advantage Program (MTAP)](https://admissions.umd.edu/apply/maryland-transfer-advantage-program), I am actively developing a strong foundation in key subjects such as chemistry, physics, and mathematics. This program is designed to prepare students for transfer to a four-year university, and I am working toward completing the core courses necessary for a successful transition.
+I am currently pursuing my education at the **Community College of Baltimore County (CCBC)**, where I will be enrolling in courses this fall (2025) with plans to earn an **Associate degree**. My academic interests are diverse, spanning **business, medicine, technology, and aerospace**, and I aim to blend these fields into my career aspirations. I am especially passionate about utilizing **data science and technology** to drive progress in both the **public health** sector and other innovative industries.
 
-Upon completion of my associate degree, I plan to transfer to the James A. Clark School of Engineering at the University of Maryland to pursue a Bachelor of Science in Mechanical Engineering (MechE). I have carefully mapped out my academic trajectory, and I am confident that the coursework I am currently undertaking will provide the knowledge and skills necessary to succeed at the next level of my education. I am excited to further my engineering studies and contribute to innovations in the field.
+Upon completing my associate degree, I plan to **transfer to a four-year university**, where I will continue my studies and pursue a Bachelor’s degree. I am on track to **graduate in May 2029**, and my future goals include contributing to interdisciplinary fields that merge technology and space.
 
-### Associate of Science in Engineering (A.S.) &rarr; Bachelor of Science in Mechanical Engineering (B.S.) Expected Graduation: May 2027  
-**Community College of Baltimore County (CCBC)**  
-
-| **Program**                     | **Details**                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------|
-| **Degree**                       | Associate of Science in Engineering (A.S.) &rarr; Bachelor of Science in Mechanical Engineering (B.S.)                                  |
-| **Expected Graduation**          | May 2027                                                                    |
-| **Program Description**          | Provides foundational knowledge in engineering, preparing students for transfer to a four-year university. Includes courses in chemistry, physics, mathematics, and engineering design. |
-| **Key Courses**                  | CHEM 131 - General Chemistry I<br>PHYS 151 - General Physics I<br>MATH 251 - Calculus I<br>ENSC 101 - Introduction to Engineering Design<br>MATH 252 - Calculus II<br>PHYS 251 - General Physics II |
-| **Current Program Status**       | Enrolled in MTAP (Maryland Transfer Advantage Program) |
-| **Transfer Plans**               | Plans to transfer to the James A. Clark School of Engineering for a Bachelor of Science in Mechanical Engineering (MechE) |
-| **Articulation and Transfer**    | Program designed with articulation agreements to ensure smooth transfer to the University of Maryland, James A. Clark School of Engineering |
-
+I am excited about the educational journey ahead and look forward to the opportunities to learn, grow, and innovate.
