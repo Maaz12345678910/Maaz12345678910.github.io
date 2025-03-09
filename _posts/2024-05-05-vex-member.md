@@ -2,7 +2,8 @@
 title: "VEX Robotics – Team Member"
 layout: post
 ---
-<img src="/assets/veximg.jpg" alt="VEX Robotics Competition" width="100%" height="300px">
+<img src="/assets/veximg.jpg" alt="VEX Robotics Competition" height="300px">
+
 
 I was a part of the [VEX Robotics](https://www.youtube.com/watch?v=_U7Os_xvhhA) team at **Dulaney High School**, where we worked on designing and building robots for various competitions. The focus of the program was on **problem-solving**, **collaboration**, and **innovation**, using engineering principles to create efficient, functional robots for different tasks.
 
