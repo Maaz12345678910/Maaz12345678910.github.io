@@ -1,15 +1,16 @@
 ---
-title: "Engineering Design – Team Lead"
+title: "VEX Robotics – Team Member"
 layout: post
 ---
 
-In the **Intro to Engineering Design** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html), I served as the **Team Lead** for a project where we designed a spaceship the size of a U.S. aircraft carrier.
+![VEX Robotics Competition](/assets/veximg.jpg)
 
-The primary focus of the design was on **modularity** and **efficiency** for space assembly, using AI-driven tools to ensure the structure could be assembled in orbit.
+I was a part of the [VEX Robotics](https://www.youtube.com/watch?v=_U7Os_xvhhA) team at **Dulaney High School**, where we worked on designing and building robots for various competitions. The focus of the program was on **problem-solving**, **collaboration**, and **innovation**, using engineering principles to create efficient, functional robots for different tasks.
+
 
 
 
 ### Project Overview:
-- **Design Focus:** The spaceship was designed with modular components, allowing for easier construction in space. 
-- **Tools Used:** I used **AutoCAD** to create detailed blueprints for the modular components, ensuring **precision** and **compatibility** for orbital assembly.
-- **Team Leadership:** As the team lead, I coordinated with team members to ensure that all components fit together seamlessly and that the project met our design criteria for both functionality and feasibility.
+- **Design Focus:** The robots were designed to perform specific tasks in competitions, with an emphasis on precision and maneuverability.  
+- **Tools Used:** We utilized various design and programming tools to create robots that could autonomously and manually perform tasks.  
+- **Team Collaboration:** As a team member, I collaborated closely with others to ensure the robots were built to specification, met competition requirements, and were ready for testing and competition.  
